@@ -1,1 +1,3 @@
-# Q-A-Rag-Application
+# **Q-A-Rag-Application**
+
+## Description: 
